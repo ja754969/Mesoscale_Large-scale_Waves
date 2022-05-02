@@ -1,0 +1,1 @@
+ID #	Position Time (MM DD.dd YYYY)	Latitude	Longitude	SST (Deg C)	VE (cm/s)	VN (cm/s)	SPD (cm/s)	Var.Lat	Var.Lon	Var.Temp
